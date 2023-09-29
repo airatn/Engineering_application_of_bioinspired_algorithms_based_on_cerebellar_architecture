@@ -4,5 +4,11 @@ In order to investigate bioinspired algorithms based on cerebellar architecture 
 The basic input data for it is the definition of the number, links and properties:
 - for each node - coordinates and their derivatives in time reflecting phase space parameters.
 - for each spring - free distance, elasticity coefficient, resistance coefficient, numbers of bodies in the arrays that are connected by the spring.
+  
 The simplest constructions and the process of changing their state in time NandS.ipynb are presented below:
 
+<p><img src="https://www.minfo.ru/different_imgs/NaS.gif" width="900"><figcaption>Fig. 2.	Four interpretations of the model.</figcaption></p>
+
+<p><img src="https://www.minfo.ru/different_imgs/ferms.gif" width="900"><figcaption>Fig. 2.	Four interpretations of the model.</figcaption></p>
+
+<p><img src="https://www.minfo.ru/different_imgs/tentacle.gif" width="900"><figcaption>Fig. 2.	Four interpretations of the model.</figcaption></p>
