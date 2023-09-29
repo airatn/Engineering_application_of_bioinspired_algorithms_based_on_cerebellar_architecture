@@ -7,8 +7,8 @@ The basic input data for it is the definition of the number, links and propertie
   
 The simplest constructions and the process of changing their state in time NandS.ipynb are presented below:
 
-<p><img src="https://www.minfo.ru/different_imgs/NaS.gif" width="900"><figcaption>Fig. 2.	Four interpretations of the model.</figcaption></p>
+<p><img src="https://www.minfo.ru/different_imgs/NaS.gif" width="600"><figcaption>Fig. 2.	Four interpretations of the model.</figcaption></p>
 
-<p><img src="https://www.minfo.ru/different_imgs/ferms.gif" width="900"><figcaption>Fig. 2.	Four interpretations of the model.</figcaption></p>
+<p><img src="https://www.minfo.ru/different_imgs/ferm.gif" width="600"><figcaption>Fig. 2.	Four interpretations of the model.</figcaption></p>
 
 <p><img src="https://www.minfo.ru/different_imgs/tentacle.gif" width="900"><figcaption>Fig. 2.	Four interpretations of the model.</figcaption></p>
