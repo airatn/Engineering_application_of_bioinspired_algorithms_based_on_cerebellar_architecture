@@ -8,7 +8,11 @@ The basic input data for it is the definition of the number, links and propertie
 The simplest constructions and the process of changing their state in time NandS.ipynb are presented below Figure 1:
 <p><img src="https://www.minfo.ru/different_imgs/NaS.gif" width="600"><figcaption>Fig. 1.	Three types of simple structures and their state in time..</figcaption></p>
 
+Behind the existing biodiversity of organic forms is 4 billion years of evolution, but for our purposes optimal solutions can be borrowed from the science of "building structures", which is also aimed at the creation and improvement of rational types of structures, but already by methods of calculation and volume-planning solutions.
+For our concept, parallels can be drawn with trusses (Latin firmus "strong"), a fundamental section of structural mechanics. The task of trusses is to remain geometrically unchanged after its rigid nodes are replaced by hinge nodes; only tensile-compression forces occur in its elements, as in the case of nodes and springs. The trusses are also constructed from rectilinear rods connected at the nodes into a geometrically invariable system to which the load is applied only at the nodes .Using the above software engine we can model any truss design, Figure 2 shows four types of trusses in different gravity fields. Red color represents compression and blue color represents tension. The intensity of the color reflects the magnitude of the normalized load in the considered block.
 
 <p><img src="https://www.minfo.ru/different_imgs/ferms.gif" width="600"><figcaption>Fig. 2.	Change in shape of trusses under different distributed loads.</figcaption></p>
+
+
 
 <p><img src="https://www.minfo.ru/different_imgs/tentacle.gif" width="900"><figcaption>Fig. 3. Tentacles in the form of a kinematic chain controlled by a neural network allows for proper positioning..</figcaption></p>
